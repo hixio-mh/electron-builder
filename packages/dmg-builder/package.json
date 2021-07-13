@@ -16,7 +16,7 @@
     "app-builder-lib": "workspace:*",
     "builder-util": "workspace:*",
     "fs-extra": "^9.0.0",
-    "iconv-lite": "^0.5.1",
+    "iconv-lite": "^0.6.3",
     "js-yaml": "^3.14.0",
     "sanitize-filename": "^1.6.3"
   },
